@@ -13,6 +13,11 @@ function buscaConteudo(conteudo){
     <div class="fakeimg" style="height:200px;">Image</div>
     -->`;
     		}
+	if(conteudo == "Manual"){
+		document.querySelector(".main").innerHTML = `<h2>Manual</h2>
+			<a href="https://drive.google.com/drive/folders/1tUgK2zIYZhzPbZ8mQeTbnjjHWXxxSrwv?usp=sharing">Manual</a>
+		`;
+    		}
         if(conteudo == "Habilidades"){
         	document.querySelector(".main").innerHTML = `<h2>Habilidades e Competências</h2>
     <h5>José Eduardo Santos Silva - 18 anos, Dez 18, 2021</h5>
