@@ -27,7 +27,6 @@ function buscaConteudo(conteudo){
     		<li><b>Java básico e MVC </b><br> E.E.E.P Professor Emmanuel Oliveira de Arruda Coelho</li>
     		<li><b>Conceitos de Scrum e metódologias ágeis </b><br> E.E.E.P Professor Emmanuel Oliveira de Arruda Coelho</li>
     		<li><b>Terminal Linux </b><br> Udemy</li>
-		<a href="https://drive.google.com/drive/folders/1tUgK2zIYZhzPbZ8mQeTbnjjHWXxxSrwv?usp=sharing">Manual</a>
     		<li><b>Mysql </b><br> E.E.E.P Professor Emmanuel Oliveira de Arruda Coelho, Udemy</li>
     		<li><b>manutenção de computadores </b><br> E.E.E.P Professor Emmanuel Oliveira de Arruda Coelho</li>
     		<li><b>Básico de html,css e javascript </b><br> E.E.E.P Professor Emmanuel Oliveira de Arruda Coelho, Curso em vídeo</li>
